@@ -72,9 +72,7 @@ const Hero = () => {
                     fontSize={{ base: "lg", md: "xl" }}
                     color={'white'}
                 >
-                    Hellonext is a feature voting software where you can allow your users
-                    to vote on features, publish roadmap, and complete your customer
-                    feedback loop.
+                    DevStuff is webapp where you can find illustrations, icons and vectors which are provided by various sites.
                 </Text>
                 <Stack
                     direction={{ base: "column", sm: "row" }} z
