@@ -18,10 +18,7 @@ import {
 } from 'react-icons/fi';
 import { BsVectorPen } from 'react-icons/bs';
 import { VscSymbolColor } from 'react-icons/vsc';
-import { motion } from 'framer-motion';
 import { useRouter } from 'next/router';
-
-const MotionBox = motion(Box);
 
 const LinkItems = [
     { name: 'Home', icon: FiHome, href: "/" },
@@ -33,7 +30,7 @@ const LinkItems = [
 export default function Sidebar({ children }) {
     const { isOpen, onOpen, onClose } = useDisclosure();
     return (
-        <MotionBox initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 3 }}>
+        <Box>
             <SidebarContent
                 onClose={() => onClose}
                 display={{ base: 'none', md: 'block' }}
@@ -46,28 +43,29 @@ export default function Sidebar({ children }) {
                 returnFocusOnClose={false}
                 onOverlayClick={onClose}
                 size="full">
-                <DrawerContent>
+                <DrawerContent bg={'transparent'}>
                     <SidebarContent onClose={onClose} />
                 </DrawerContent>
             </Drawer>
-            <MobileNav display={{ base: 'flex', md: 'none' }} onOpen={onOpen} />
+            <MobileNav display={{ md: 'none', base: (!isOpen ? 'flex' : 'none') }} onOpen={onOpen} position={'fixed'} zIndex={2} w={"100%"} bg={'transparent'} style={{ backdropFilter: "blur(5px)" }} />
             <Box ml={{ base: 0, md: 60 }}>
                 {children}
             </Box>
-        </MotionBox>
+        </Box>
     );
 }
 
 const SidebarContent = ({ onClose, ...rest }) => {
     return (
         <Box
-            bg={useColorModeValue('white', 'gray.900')}
+            bg={'gray.900'}
             borderRight="1px"
             borderRightColor={useColorModeValue('gray.200', 'gray.700')}
             w={{ base: 'full', md: 60 }}
             pos="fixed"
             h="full"
-            {...rest}>
+            {...rest}
+        >
             <Flex h="20" alignItems="center" mx="8" justifyContent="space-between">
                 <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold">
                     DevStuff

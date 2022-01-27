@@ -72,7 +72,7 @@ const Hero = () => {
                     fontSize={{ base: "lg", md: "xl" }}
                     color={'white'}
                 >
-                    DevStuff is webapp where you can find illustrations, icons and vectors which are provided by various sites.
+                    DevStuff is a webapp where you can find illustrations, icons and vectors which are provided by various sites.
                 </Text>
                 <Stack
                     direction={{ base: "column", sm: "row" }} z
@@ -88,7 +88,7 @@ const Hero = () => {
                         justifyContent="center"
                         w={{ base: "full", sm: "auto" }}
                         mb={{ base: 2, sm: 0 }}
-                        size="lg"
+                        size="lg"   
                         cursor="pointer"
                         onClick={() => {
                             router.replace("/illustrations"),

@@ -34,8 +34,6 @@ export default function Cards({ name, link, detail, url }) {
                 >
                     <Center height={'100%'}>
                         <Image
-                            height={200}
-                            width={200}
                             objectFit={'contain'}
                             src={url}
                         />
