@@ -51,6 +51,7 @@ const Hero = () => {
                     fontWeight="bold"
                     lineHeight={1.2}
                     letterSpacing={{ base: "normal", md: "tight" }}
+                    color={'white'}
                 >
                     All your{" "}
                     <Text
