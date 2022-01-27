@@ -20,7 +20,7 @@ export default function NotFound() {
                     Page Not Found
                 </Text>
                 <Text color={'gray.400'} mb={6} fontSize={'lg'}>
-                    The page you're looking for does not seem to exist
+                    The page you are looking for does not seem to exist
                 </Text>
                 <Button
                     color="white"
