@@ -42,11 +42,11 @@ export default function Cards({ name, link, detail, url }) {
                 </Box>
                 <Stack pt={10}>
                     <Stack direction={'row'} alignItems={'center'} justifyContent={'space-between'}>
-                        <Heading fontSize={'2xl'} fontFamily={'body'} fontWeight={500}>
+                        <Heading fontSize={'2xl'} fontFamily={'body'} fontWeight={500} color={'white'}>
                             {name}
                         </Heading>
                         <Link href={link} isExternal>
-                            <Button pr={0} _focus={{ textDecoration: 'none' }} >
+                            <Button pr={0} _focus={{ textDecoration: 'none' }} bg={'transparent'}>
                                 <Icon
                                     mr="4"
                                     fontSize="24"
@@ -55,7 +55,7 @@ export default function Cards({ name, link, detail, url }) {
                             </Button>
                         </Link>
                     </Stack>
-                    <Text fontWeight={400} fontSize={'lg'}>
+                    <Text fontWeight={400} fontSize={'lg'} color={'white'}>
                         {detail}
                     </Text>
                 </Stack>
