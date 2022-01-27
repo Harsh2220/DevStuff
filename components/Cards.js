@@ -36,6 +36,7 @@ export default function Cards({ name, link, detail, url }) {
                         <Image
                             objectFit={'contain'}
                             src={url}
+                            alt="Banner"
                         />
                     </Center>
                 </Box>

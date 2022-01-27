@@ -77,7 +77,7 @@ const Hero = () => {
                 <Stack
                     direction={{ base: "column", sm: "row" }} z
                     mb={{ base: 4, md: 8 }}
-                    spacing={2}
+                    spacing={2} 
                     justifyContent={{ sm: "left", md: "center" }}
                 >
                     <Button
