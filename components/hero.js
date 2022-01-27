@@ -38,7 +38,7 @@ const Hero = () => {
     const router = useRouter();
 
     return (
-        <Flex px={8} py={24} mx="auto" height={'100vh'} alignItems={'center'}>
+        <Flex px={8} py={24} mx="auto" height={'100vh'} alignItems={'center'} bg={'gray.800'}>
             <MotionBox
                 w={{ base: "full", md: 11 / 12, xl: 9 / 12 }}
                 mx="auto"
