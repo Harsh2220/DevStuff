@@ -1,0 +1,358 @@
+{
+    "Illustrations": [
+        {
+            "id": 1,
+            "name": "DrawKit",
+            "detail": "Hand-drawn vector illustration and icon resources, perfect for your next project.",
+            "link": "https://drawkit.com/",
+            "url": "https://assets-global.website-files.com/5bcb46130508ef456a7b2930/5f4c375c17865e08a63421ac_drawkit-og.png"
+        },
+        {
+            "id": 2,
+            "name": "Humans",
+            "detail": "The biggest set of 3D characters for Figma and Blender.",
+            "link": "https://humans.wannathis.one/",
+            "url": "https://d17v9ds8p1uxd3.cloudfront.net/twitter/humans-3.0.png"
+        },
+        {
+            "id": 3,
+            "name": "Pixeltrue",
+            "detail": "Free to use for personal and commercial use without attribution.",
+            "link": "https://www.pixeltrue.com/free-illustrations",
+            "url": "https://global-uploads.webflow.com/5dd3495558fd7f3d1fcb52bc/5e6b4f923f454167354ff767_Free.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Handz",
+            "detail": "Free 3D illustrations of different hands.",
+            "link": "https://www.handz.design/",
+            "url": "https://www.handz.design/assets/images/share.jpg?v=f91891da"
+        },
+        {
+            "id": 5,
+            "name": "3d Khagwal",
+            "detail": "3D illustrations perfectly fit in your promotional content, web and mobile app projects.",
+            "link": "https://3d.khagwal.co/",
+            "url": "https://3d.khagwal.co/assets/images/khagwal_3d_cover.png"
+        },
+        {
+            "id": 6,
+            "name": "Free illustarations",
+            "detail": "Find free to use illustrations from various platoforms.",
+            "link": "https://freeillustrations.xyz/",
+            "url": "https://freeillustrations.xyz/wp-content/uploads/2020/05/Social-OG.png"
+        },
+        {
+            "id": 7,
+            "name": "Undraw",
+            "detail": "Open-source illustrations for any idea you can imagine and create.",
+            "link": "https://undraw.co/",
+            "url": "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/v2/undraw_social_20.png"
+        },
+        {
+            "id": 8,
+            "name": "StorySet",
+            "detail": "Awesome free customizable illustrations for your next project.",
+            "link": "https://storyset.com/",
+            "url": "https://storyset.com/apple-touch-icon.png"
+        },
+        {
+            "id": 9,
+            "name": "Manypixels",
+            "detail": "Discover new illustrations every week. Use them on landing pages, blog posts, newsletters, social media graphics and more.",
+            "link": "https://www.manypixels.co/gallery",
+            "url": "https://www.manypixels.co/Illustrations Gallery Thumbnails.png"
+        },
+        {
+            "id": 10,
+            "name": "Power People Platform",
+            "detail": "Power People Platform is a delicious design library of 3D avatars.",
+            "link": "https://powerpeopleplatform.com/",
+            "url": "https://powerpeopleplatform.com/wp-content/uploads/2021/03/cropped-PPP_Favicon2-192x192.png"
+        },
+        {
+            "id": 11,
+            "name": "Lottiefiles",
+            "detail": "Lightweight, scalable animations for your website and apps.",
+            "link": "https://lottiefiles.com/",
+            "url": "https://static.lottiefiles.com/featured_image/oxrdoEtVEfPg40PmNBpBhSFmCye0x3i0uv8Dd6IY.png"
+        },
+        {
+            "id": 12,
+            "name": "Illustrationkit",
+            "detail": "Free vector illustrations for personal & commercial projects Designed.",
+            "link": "https://illustrationkit.com/",
+            "url": "https://www.illustrationkit.com/OG.png"
+        },
+        {
+            "id": 13,
+            "name": "404 illustrations",
+            "detail": "Make a unique journey through 404 error pages on your website Use these illustrations that describe better than words.",
+            "link": "https://error404.fun/",
+            "url": "https://error404.fun:443/img/apple-icon-180x180.png"
+        },
+        {
+            "id": 14,
+            "name": "icons8",
+            "detail": "Free vector illustrations to enhance your project.",
+            "link": "https://icons8.com/illustrations",
+            "url": "https://maxst.icons8.com/vue-static/ouch/seo/opengraph.png"
+        },
+        {
+            "id": 15,
+            "name": "Halloween illustrations",
+            "detail": "They are awesome and totally free! For personal and commercial projects.",
+            "link": "https://halloween.wannathis.one/?ref=uistore.design",
+            "url": "https://d17v9ds8p1uxd3.cloudfront.net/twitter/halloween.png"
+        },
+        {
+            "id": 16,
+            "name": "On Fire illustrations",
+            "detail": "These illustrations will wake up any project with their unique mood.",
+            "link": "https://onfire.craftwork.design/?ref=uistore.design",
+            "url": "https://onfire.craftwork.design:443/images/favicon.png"
+        },
+        {
+            "id": 17,
+            "name": "Doodleipsum",
+            "detail": "Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools.",
+            "link": "https://doodleipsum.com/?ref=lapaninja",
+            "url": "https://doodleipsum.com/1000x750/flat?bg=e3f5f8&i=23243fc71ac1a810a5873bde01e17f07"
+        },
+        {
+            "id": 18,
+            "name": "Sapiens",
+            "detail": "All your creations are royalty-free for personal or commercial projects, forever.",
+            "link": "https://sapiens.ui8.net",
+            "url": "https://sapiens.ui8.net/apple-touch-icon.png"
+        },
+        {
+            "id": 19,
+            "name": "Craftwork",
+            "detail": "Get help from thousands of web illustrations, UX/UI kits, fonts, and graphic templates to raise your design experience.",
+            "link": "https://craftwork.design/downloads/category/freebies/",
+            "url": "https://craftwork-images.b-cdn.net/wp-content/uploads/Opern-graph.png"
+        },
+        {
+            "id": 20,
+            "name": "Reebie3D",
+            "detail": "Free and Premium 3D Art for Your Project Needs!",
+            "link": "https://slimfy3d.gumroad.com/",
+            "url": "https://assets.gumroad.com/assets/gumroad-default-avatar-5-85b6f5cbafced321e1a851db194f33f91f9ed5ac0bd1ca578a8f298413ce3d9b.png"
+        },
+        {
+            "id": 21,
+            "name": "Storytale",
+            "detail": "Make your project eye-catching with awesome characters. Use it both for commercial and personal purposes.",
+            "link": "https://storytale.io/",
+            "url": "https://storytale.io/favicons/favicon-196.png"
+        },
+        {
+            "id": 22,
+            "name": "3D Toy Faces",
+            "detail": "Toy Faces is an extremely diverse library of the coolest 3D avatars for your design mockups and personal use.",
+            "link": "https://amritpalsingh.gumroad.com/l/eWyNe",
+            "url": "https://public-files.gumroad.com/variants/6hi0i8151xinzsesvl92g3av61m1/532b90e67d0f2b8d3f37ee46f365ac5444b519f35527f4d9d3c523dd33d2fd30"
+        }
+    ],
+    "Icons": [
+        {
+            "id": 1,
+            "name": "Iconshock",
+            "detail": "The biggest icon pack: 2 million professional icons library",
+            "link": "https://www.iconshock.com/",
+            "url": "https://www.iconshock.com/img/iconshock_og.png"
+        },
+        {
+            "id": 2,
+            "name": "Ant Design Icons",
+            "detail": "Antd provides plenty of UI components to enrich your web applications, and we will improve components experience consistently.",
+            "link": "https://ant.design/components/icon/",
+            "url": "https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap Icons",
+            "detail": "Free, high quality, open source icon library with over 1,500 icons.",
+            "link": "https://icons.getbootstrap.com/",
+            "url": "https://icons.getbootstrap.com/assets/img/bootstrap-icons-social.png"
+        },
+        {
+            "id": 4,
+            "name": "Akar Icons",
+            "detail": "Perfectly rounded icon library made for designers and developers.",
+            "link": "https://akaricons.com/",
+            "url": "https://akaricons.com/images/akar-opengraph.png"
+        },
+        {
+            "id": 5,
+            "name": "Boxicons",
+            "detail": "Simple Open Source icons carefully crafted for designers & developers.",
+            "link": "https://boxicons.com/",
+            "url": "https://besticon-demo.herokuapp.com/icon?url=https://boxicons.com/static/img/og-image.png&size=80..120..200"
+        },
+        {
+            "id": 6,
+            "name": "Radix Icons",
+            "detail": "A crisp set of 15x15 icons designed by the Modulz team.",
+            "link": "https://icons.modulz.app/",
+            "url": "https://raw.githubusercontent.com/modulz/radix-icons/master/packages/website/public/preview.png"
+        },
+        {
+            "id": 7,
+            "name": "Flaticon",
+            "detail": "Download free icons and stickers for your projects.Resources made by and for designers.",
+            "link": "https://www.flaticon.com/",
+            "url": "https://media.flaticon.com/share/flaticon-generic.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ionicons",
+            "detail": "Open source icons. Lovingly hand-crafted.",
+            "link": "https://ionic.io/ionicons",
+            "url": "https://ionic.io/ionicons/assets/img/meta/ionicons-og.png"
+        },
+        {
+            "id": 9,
+            "name": "Freeicons",
+            "detail": "The largest database of free icons.",
+            "link": "https://freeicons.io/",
+            "url": "https://besticon-demo.herokuapp.com/icon?url=freeicons.io/&size=80..120..200"
+        },
+        {
+            "id": 10,
+            "name": "Icons8",
+            "detail": "PNG and SVG icons in diffferent styles.",
+            "link": "https://icons8.com/icons",
+            "url": "https://icons8.com/vue-static/landings/primary-landings/preview_icons8.png"
+        },
+        {
+            "id": 11,
+            "name": "Font Awesome",
+            "detail": "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.",
+            "link": "https://fontawesome.com/",
+            "url": "https://img.fortawesome.com/349cfdf6/fontawesome-open-graph.png"
+        },
+        {
+            "id": 12,
+            "name": "Icon Finder",
+            "detail": "Filter through the world's largest marketplace for icons and illustrations with flexibility and ease.",
+            "link": "https://www.iconfinder.com/",
+            "url": "https://www.iconfinder.com/static/img/meta-generic.png?ae322aea72"
+        },
+        {
+            "id": 13,
+            "name": "Devicons",
+            "detail": "Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.",
+            "link": "https://vorillaz.github.io/devicons/#/dafont",
+            "url": "https://vorillaz.github.io/devicons/img/ogimage.png"
+        },
+        {
+            "id": 14,
+            "name": "Feathericons",
+            "detail": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.",
+            "link": "https://feathericons.com/",
+            "url": "https://feathericons.com/feather-og.png"
+        },
+        {
+            "id": 15,
+            "name": "Github Octicons",
+            "detail": "Free icons by github primer for your next project.",
+            "link": "https://primer.style/octicons/",
+            "url": "https://user-images.githubusercontent.com/10384315/53922681-2f6d3100-402a-11e9-9719-5d1811c8110a.png"
+        },
+        {
+            "id": 16,
+            "name": "Grommet Icons",
+            "detail": "Customize your icon easily and free.",
+            "link": "https://icons.grommet.io/",
+            "url": "https://icons.grommet.io/img/mobile-app-icon.png"
+        },
+        {
+            "id": 17,
+            "name": "Heroicons",
+            "detail": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+            "link": "https://heroicons.com/",
+            "url": "https://heroicons.com/_next/static/media/social-card.c623b199d043ddf168d67e9b98a21a24.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Material Icons",
+            "detail": "Material Ui icons provides a robust, customizable, and accessible icons to you to build your own design system and develop React applications faster.",
+            "link": "https://mui.com/components/material-icons/",
+            "url": "https://mui.com/static/social-previews/default-preview.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Remix Icon",
+            "detail": "Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.",
+            "link": "https://remixicon.com/",
+            "url": "https://remixicon.com/favicon.ico"
+        },
+        {
+            "id": 20,
+            "name": "VS code Icons",
+            "detail": "Vs code icons by microsoft to use in your next project.",
+            "link": "https://microsoft.github.io/vscode-codicons/dist/codicon.html",
+            "url": "https://www.microsoft.com/favicon.ico?v"
+        },
+        {
+            "id": 21,
+            "name": "Free 3d icons",
+            "detail": "This is a collection of free, beautiful, trending 3D icons, that you can use in your website, app or in any project.",
+            "link": "https://free3dicon.com/",
+            "url": "https://free3dicon.com/wp-content/themes/karanikola-icons/app/img/avatar.jpg"
+        }
+    ],
+    "Vector": [
+        {
+            "id": 1,
+            "name": "Shape fest",
+            "detail": "A massive library of free 3D shapes for motion design.",
+            "link": "https://www.shapefest.com/",
+            "url": "https://uploads-ssl.webflow.com/5f0e589021058152a1d327da/5f162e4f65ee73d01f307f3b_Shapefest%20Open%20Graph.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Vecteezy",
+            "detail": "Professional quality creative resources to get your projects done faster.",
+            "link": "https://www.vecteezy.com/",
+            "url": "https://static.vecteezy.com/packs/media/components/util/logos/vecteezy-logo--white-on-orange-73a803e49555c14b184939ca1a6108d6.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Haikei",
+            "detail": "Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!",
+            "link": "https://app.haikei.app/",
+            "url": "https://haikei.app/haikei-cover.png"
+        },
+        {
+            "id": 4,
+            "name": "Blobmaker",
+            "detail": "Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.",
+            "link": "https://www.blobmaker.app/",
+            "url": "https://www.blobmaker.app/static/blobmaker-cover-703617855c36334d464a0690d71f7a75.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Getwaves",
+            "detail": "Getwaves is a free wave gererator design tool, to help you quickly create random, unique, and organic-looking SVG waves.",
+            "link": "https://getwaves.io/",
+            "url": "https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Meshgradient",
+            "detail": "Mesh is a simple way to create beautiful, unique gradients using shaders.",
+            "link": "https://meshgradient.com/",
+            "url": "https://meshgradient.com/apple-touch-icon.png"
+        },
+        {
+            "id": 7,
+            "name": "Freepik",
+            "detail": "Millions of Free Graphic Resources, Vectors, Stock Photos, PSD, Icons. All that you need for your Creative Projects",
+            "link": "https://www.freepik.com/",
+            "url": "https://freepik.cdnpk.net/img/logo-fb-en.png"
+        }
+    ]
+}
