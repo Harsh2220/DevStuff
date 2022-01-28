@@ -13,17 +13,17 @@ import {
 import Link from 'next/link'
 import {
     FiHome,
-    FiCompass,
     FiMenu,
 } from 'react-icons/fi';
 import { BsVectorPen } from 'react-icons/bs';
 import { VscSymbolColor } from 'react-icons/vsc';
+import { FaIcons } from 'react-icons/fa'
 import { useRouter } from 'next/router';
 
 const LinkItems = [
     { name: 'Home', icon: FiHome, href: "/" },
     { name: 'Illustration', icon: VscSymbolColor, href: "/illustrations" },
-    { name: 'Icon', icon: FiCompass, href: "/icons" },
+    { name: 'Icon', icon: FaIcons, href: "/icons" },
     { name: 'Vector / Svg', icon: BsVectorPen, href: "/vectors" },
 ];
 
@@ -77,6 +77,14 @@ const SidebarContent = ({ onClose, ...rest }) => {
                     {link.name}
                 </NavItem>
             ))}
+            <Text textAlign={'center'} mt={'80'} fontFamily={'monospace'} fontSize={'md'}>Made with ❤️ by&nbsp;
+                <Text as="u" textUnderlineOffset={'2px'} fontWeight={'bold'}
+                    _hover={{
+                        textDecoration: "underline wavy"
+                    }}>
+                    <a href="https://github.com/Harsh2220" target="_blank">Harsh</a>
+                </Text>
+            </Text>
         </Box>
     );
 };
