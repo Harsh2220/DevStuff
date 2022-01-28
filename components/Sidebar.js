@@ -81,14 +81,14 @@ const SidebarContent = ({ onClose, ...rest }) => {
                     </NavItem>
                 ))}
             </Box>
-            <Text textAlign={'center'} fontFamily={'monospace'} fontSize={'md'} mb={10}>Made with ❤️ by&nbsp;
+            {/* <Text textAlign={'center'} fontFamily={'monospace'} fontSize={'md'}>Made with ❤️ by&nbsp;
                 <Text as="u" textUnderlineOffset={'2px'} fontWeight={'bold'}
                     _hover={{
                         textDecoration: "underline wavy"
                     }}>
                     <a href="https://github.com/Harsh2220" target="_blank" rel="noreferrer">Harsh</a>
                 </Text>
-            </Text>
+            </Text> */}
         </Flex>
     );
 };
