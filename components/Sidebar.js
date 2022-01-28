@@ -82,7 +82,7 @@ const SidebarContent = ({ onClose, ...rest }) => {
                     _hover={{
                         textDecoration: "underline wavy"
                     }}>
-                    <a href="https://github.com/Harsh2220" target="_blank">Harsh</a>
+                    <a href="https://github.com/Harsh2220" target="_blank" rel="noreferrer">Harsh</a>
                 </Text>
             </Text>
         </Box>
