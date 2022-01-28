@@ -57,35 +57,39 @@ export default function Sidebar({ children }) {
 
 const SidebarContent = ({ onClose, ...rest }) => {
     return (
-        <Box
+        <Flex
             bg={'gray.900'}
             borderRight="1px"
             borderRightColor={useColorModeValue('gray.200', 'gray.700')}
             w={{ base: 'full', md: 60 }}
             pos="fixed"
             h="full"
+            flexDir={'column'}
+            justifyContent={'space-between'}
             {...rest}
         >
-            <Flex h="20" alignItems="center" mx="8" justifyContent="space-between">
-                <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold" color={'white'}>
-                    DevStuff
-                </Text>
-                <CloseButton display={{ base: 'flex', md: 'none' }} onClick={onClose} />
-            </Flex>
-            {LinkItems.map((link) => (
-                <NavItem key={link.name} icon={link.icon} href={link.href}>
-                    {link.name}
-                </NavItem>
-            ))}
-            {/* <Text textAlign={'center'} mt={'80'} fontFamily={'monospace'} fontSize={'md'}>Made with ❤️ by&nbsp;
+            <Box>
+                <Flex h="20" alignItems="center" mx="8" justifyContent="space-between">
+                    <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold" color={'white'}>
+                        DevStuff
+                    </Text>
+                    <CloseButton display={{ base: 'flex', md: 'none' }} onClick={onClose} />
+                </Flex>
+                {LinkItems.map((link) => (
+                    <NavItem key={link.name} icon={link.icon} href={link.href}>
+                        {link.name}
+                    </NavItem>
+                ))}
+            </Box>
+            <Text textAlign={'center'} fontFamily={'monospace'} fontSize={'md'} mb={10}>Made with ❤️ by&nbsp;
                 <Text as="u" textUnderlineOffset={'2px'} fontWeight={'bold'}
                     _hover={{
                         textDecoration: "underline wavy"
                     }}>
                     <a href="https://github.com/Harsh2220" target="_blank" rel="noreferrer">Harsh</a>
                 </Text>
-            </Text> */}
-        </Box>
+            </Text>
+        </Flex>
     );
 };
 
