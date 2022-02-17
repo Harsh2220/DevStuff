@@ -61,7 +61,7 @@ const SidebarContent = ({ onClose, ...rest }) => {
             bg={'gray.900'}
             borderRight="1px"
             borderRightColor={useColorModeValue('gray.200', 'gray.700')}
-            w={{ base: 'full', md: 60 }}
+            w={{ base: 'full', md: 60 }}    
             pos="fixed"
             h="full"
             flexDir={'column'}

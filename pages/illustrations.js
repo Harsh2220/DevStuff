@@ -1,6 +1,4 @@
 import { Flex } from '@chakra-ui/react';
-import { useRouter } from 'next/router';
-import { useState } from 'react';
 import Cards from '../components/Cards';
 import data from '../data.json';
 
