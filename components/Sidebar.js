@@ -29,7 +29,6 @@ const LinkItems = [
 
 export default function Sidebar({ children }) {
     const { isOpen, onOpen, onClose } = useDisclosure();
-    console.log(isOpen);
     return (
         <Box>
             <SidebarContent
@@ -90,7 +89,7 @@ const SidebarContent = ({ onClose, ...rest }) => {
                     <a href="https://github.com/Harsh2220" target="_blank" rel="noreferrer">Harsh</a>
                 </Text>
             </Text> */}
-        </Flex>
+        </Flex> 
     );
 };
 
