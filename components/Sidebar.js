@@ -29,6 +29,7 @@ const LinkItems = [
 
 export default function Sidebar({ children }) {
     const { isOpen, onOpen, onClose } = useDisclosure();
+    console.log(isOpen);
     return (
         <Box>
             <SidebarContent
@@ -76,7 +77,7 @@ const SidebarContent = ({ onClose, ...rest }) => {
                     <CloseButton display={{ base: 'flex', md: 'none' }} onClick={onClose} />
                 </Flex>
                 {LinkItems.map((link) => (
-                    <NavItem key={link.name} icon={link.icon} href={link.href}>
+                    <NavItem key={link.name} icon={link.icon} href={link.href} onClick={onClose}>
                         {link.name}
                     </NavItem>
                 ))}
