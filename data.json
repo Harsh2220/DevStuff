@@ -354,5 +354,63 @@
             "link": "https://www.freepik.com/",
             "url": "https://freepik.cdnpk.net/img/logo-fb-en.png"
         }
+    ],
+    "Animation": [
+        {
+            "id": 1,
+            "name": "Animate-CSS",
+            "detail": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+            "link": "https://animate.style/",
+            "url": "https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/media/8630/XHRQu3mBQGmVGlD4C6tL_animatecss.gif"
+        },
+        {
+            "id": 2,
+            "name": "Anime.js",
+            "detail": "Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API It works with CSS properties, SVG, DOM attributes and JavaScript Object",
+            "link": "https://animejs.com/",
+            "url": "https://helpdev.eu/wp-content/uploads/2019/01/anime-js-3.jpg"
+        },
+        {
+            "id": 3,
+            "name": "BounceJS",
+            "detail": "Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations.",
+            "link": "http://bouncejs.com/",
+            "url": "https://coderoll.net/uploads/posts/2020-08/1596889511_bouncejs.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Popmotion",
+            "detail": "Popmotion is a functional animation library that enables you to create thrilling user experience animations. In other words, we agree with their claim that they are “The Animator’s JavaScript Toolbox.” ",
+            "link": "https://popmotion.io/",
+            "url": "https://tutorialzine.com/media/2017/07/popmotion.jpg"
+        },
+        {
+            "id": 5,
+            "name": "GreenSock Animation Platform",
+            "detail": "GSAP is yet another powerful animation library built on HTML5 and JavaScript. It ensures that animations run smoothly on modern web browsers and HTML5 solutions by binding multiple animation properties ",
+            "link": "https://greensock.com/gsap/",
+            "url": "https://www.datocms-assets.com/21211/1595862385-gsap1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Framer motion",
+            "detail": "A production-ready motion library for React. Utilize the power behind Framer, the best prototyping tool for teams. Proudly open source.",
+            "link": "https://www.framer.com/motion/",
+            "url": "https://andrejgajdos.com/wp-content/uploads/2020/01/framer-motion-tutorial.png"
+        },
+        {
+            "id": 7,
+            "name": "Magic Animations",
+            "detail": "It is yet another CSS-powered animation library—this time, bearing magical powers. This library is impressive to say the least, offering top-notch features and functionalities",
+            "link": "https://www.minimamente.com/project/magic/",
+            "url": "https://wpshopmart.com/wp-content/uploads/2020/08/Magic-Animations.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Hover CSS",
+            "detail": "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration",
+            "link": "https://ianlunn.github.io/Hover/",
+            "url": "https://codes4education.com/wp-content/uploads/2020/12/Content-Box-Hover-Effects-Css-Border-Animation-On-Hover-min.jpg"
+        }
     ]
 }
