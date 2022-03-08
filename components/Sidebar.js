@@ -16,6 +16,7 @@ import {
     FiMenu,
 } from 'react-icons/fi';
 import { BsVectorPen } from 'react-icons/bs';
+import { MdAnimation } from 'react-icons/md';
 import { VscSymbolColor } from 'react-icons/vsc';
 import { FaIcons } from 'react-icons/fa'
 import { useRouter } from 'next/router';
@@ -25,6 +26,7 @@ const LinkItems = [
     { name: 'Illustration', icon: VscSymbolColor, href: "/illustrations" },
     { name: 'Icon', icon: FaIcons, href: "/icons" },
     { name: 'Vector / Svg', icon: BsVectorPen, href: "/vectors" },
+    { name: 'Animation Library', icon: MdAnimation, href: "/Animation" },
 ];
 
 export default function Sidebar({ children }) {
