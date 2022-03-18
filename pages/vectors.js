@@ -7,7 +7,7 @@ function Vectors() {
     console.log();
     return (
         <Flex flexWrap={'wrap'} justifyContent={'space-around'} mt={[20, 20, 5, 5]} bg={'gray.800'}>
-            {data.Illustrations && data.Vector.map(el => {
+            {data.Vector && data.Vector.map(el => {
                 return <Cards key={el.id} name={el.name} link={el.link} detail={el.detail} url={el.url} />
             })}
         </Flex>
