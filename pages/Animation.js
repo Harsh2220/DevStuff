@@ -6,12 +6,7 @@ import data from "../data.json";
 function Animation() {
   console.log();
   return (
-    <Flex
-      flexWrap={"wrap"}
-      justifyContent={"space-around"}
-      mt={[20, 20, 5, 5]}
-      bg={"gray.800"}
-    >
+    <Flex flexWrap={"wrap"} justifyContent={"space-around"} mt={[20, 20, 5, 5]}>
       {data.Animation &&
         data.Animation.map((el) => {
           return (

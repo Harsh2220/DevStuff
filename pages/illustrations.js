@@ -4,7 +4,7 @@ import data from '../data.json';
 
 function Illustrations() {
     return (
-        <Flex flexWrap={'wrap'} justifyContent={'space-around'} mt={[20,20,5,5]} bg={'gray.800'}>
+        <Flex flexWrap={'wrap'} justifyContent={'space-around'} mt={[20,20,5,5]}>
             {data.Illustrations && data.Illustrations.map(el => {
                 return <Cards key={el.id} name={el.name} link={el.link} detail={el.detail} url={el.url} />
             })}
